@@ -17,5 +17,3 @@ RHL RELIA
 RHL Butterfly
 -------------
  * [RHL RELIA Butterfly](https://github.com/remotehublab/rhl-butterfly-simulation) (based on [OpenHybridAPI](https://github.com/labsland/openhybridapi)
-
-[more to come]
