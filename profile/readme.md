@@ -7,6 +7,8 @@ List of repositories by project:
 
 RHL RELIA
 ---------
+ 
+ * Information about RHL RELIA: https://rhlab.ece.uw.edu/projects/relia/
  * Server:
    * [RHL RELIA Frontend](https://github.com/remotehublab/rhl-relia-cloud-frontend)
    * [RHL RELIA Backend](https://github.com/remotehublab/rhl-relia-cloud-backend)
@@ -18,4 +20,5 @@ RHL RELIA
 
 RHL Butterfly
 -------------
+ * Information about RHL Butterfly: https://rhlab.ece.uw.edu/projects/rhl-butterfly/
  * [RHL RELIA Butterfly](https://github.com/remotehublab/rhl-butterfly-simulation) (based on [OpenHybridAPI](https://github.com/labsland/openhybridapi))
