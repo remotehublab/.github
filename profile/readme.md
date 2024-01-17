@@ -17,6 +17,8 @@ RHL RELIA
  * Raspberry Pi:
    * [RHL RELIA GNU Radio Blocks](https://github.com/remotehublab/rhl-relia-gr-blocks)
    * [RHL RELIA GNU Radio Runner](https://github.com/remotehublab/rhl-relia-gr-runner)
+ * Hardware:
+   * [RHL RELIA 3D parts](https://github.com/remotehublab/rhl-relia-3d-parts)
 
 RHL Butterfly
 -------------
