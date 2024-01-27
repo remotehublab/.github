@@ -24,3 +24,8 @@ RHL Butterfly
 -------------
  * Information about RHL Butterfly: https://rhlab.ece.uw.edu/projects/rhl-butterfly/
  * [RHL RELIA Butterfly](https://github.com/remotehublab/rhl-butterfly-simulation) (based on [OpenHybridAPI](https://github.com/labsland/openhybridapi))
+
+RHL CARE
+-------------
+ * RHL's Clinician Augmented Reality Environment (CARE) project aims to integrate Augmented Reality with Digital Healthcare to augment clinician capabilities and provide immersive training for medical residents.
+ * Please visit the [RHL CARE GitHub Organization](https://github.com/UW-CARE) for more information!
