@@ -9,6 +9,8 @@ RHL RELIA
 ---------
  
  * Information about RHL RELIA: https://rhlab.ece.uw.edu/projects/relia/
+ * Documentation:
+   * [RHL RELIA Documentation](https://github.com/remotehublab/rhl-relia-documentation/blob/main/readme.md)
  * Server:
    * [RHL RELIA Frontend](https://github.com/remotehublab/rhl-relia-cloud-frontend)
    * [RHL RELIA Backend](https://github.com/remotehublab/rhl-relia-cloud-backend)
