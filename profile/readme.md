@@ -33,3 +33,8 @@ RHL CARE
 -------------
  * RHL's Clinician Augmented Reality Environment (CARE) project aims to integrate Augmented Reality with Digital Healthcare to augment clinician capabilities and provide immersive training for medical residents.
  * Please visit the [RHL CARE GitHub Organization](https://github.com/UW-CARE) for more information!
+
+RHL REDTAIL
+-----------
+ * [RHLab SDK and simulations](https://github.com/remotehublab/rhl-redtail-sdk)
+ * [RHLab Repositor](https://github.com/remotehublab/rhl-redtail-repository)
